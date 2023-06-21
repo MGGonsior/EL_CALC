@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/Visual Studio 2022/Kalkulator_dla_elektronikow_MG/out/build/x64-debug/CMakeFiles/Kalkulator_dla_elektronikow_MG.dir/embed.manifest"

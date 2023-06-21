@@ -1,0 +1,9 @@
+# ninja log v5
+2	519	7089139008985467	CMakeFiles/Kalkulator_dla_elektronikow_MG.dir/Kalkulator_dla_elektronikow_MG.cpp.obj	a61f70ce0a762c46
+5	531	7089139009105068	CMakeFiles/Kalkulator_dla_elektronikow_MG.dir/Console.cpp.obj	2438da1c482e1d68
+4	629	7089139010067018	CMakeFiles/Kalkulator_dla_elektronikow_MG.dir/Number.cpp.obj	265cda62d30f6bb0
+629	1537	7089139018810588	Kalkulator_dla_elektronikow_MG.exe	4cfa329314ca305a
+27	1017	7090087631477036	CMakeFiles/Kalkulator_dla_elektronikow_MG.dir/Kalkulator_dla_elektronikow_MG.cpp.obj	a61f70ce0a762c46
+32	1023	7090087631526868	CMakeFiles/Kalkulator_dla_elektronikow_MG.dir/Console.cpp.obj	2438da1c482e1d68
+30	1060	7090087631895636	CMakeFiles/Kalkulator_dla_elektronikow_MG.dir/Number.cpp.obj	265cda62d30f6bb0
+1060	1569	7090087635549427	Kalkulator_dla_elektronikow_MG.exe	4cfa329314ca305a

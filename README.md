@@ -5,7 +5,7 @@ w ramach przedmiotu "Języki Programowania"<br/>
 Autorstwa:<br/> 
 Mateusz Gąsiorowski<br/>
 Student AGH<br/>
-Wydział: WIET<br/>
+Wydział: IEiT<br/>
 Kierunek: Elektronika<br/>
 
 
